@@ -4,7 +4,7 @@ Are you missing the good old days of playing Brick Hill? <br>Look no further tha
 
 <h1>Features</h1>
 <b>
-🔧 Built with Bootstrap for a responsive and customizable desige
+🔧 Built with Bootstrap for a responsive and customizable design 
 <br>
 🎉 Daily to keep buy some cool item
 <br>
