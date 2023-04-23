@@ -23,7 +23,7 @@ Are you missing the good old days of playing Brick Hill? <br>Look no further tha
 ' <b>http://localhost:3000</b> ' in your web browser to run the website
 <br>
 <br>
-<b>Note:</b> this source code has no database but you can download source here 
+<b>Note:</b> this source code has no database but you can download db here 
 "<b>http://www.mediafire.com/file/7fd1rx6f8i7vqaj/bricflrb_login.sql/file</b>"
 <h1>Credits</h1>
 
