@@ -16,15 +16,15 @@ Are you missing the good old days of playing Brick Hill? <br>Look no further tha
 1 - Clone the repository to your local machine
 <br>
 <br>
-2 - Install the necessary dependencies using ' <b>npm install</b> ' 
+2 - Install the necessary dependencies using <code>npm install</code>
 <br>
 <br>
-3 - Start the server using ' <b>npm start</b> ' Visit <br>
-' <b>http://localhost:3000</b> ' in your web browser to run the website
+3 - Start the server using <code>npm start</code> Visit <br>
+<b>http://localhost:3000</b> in your web browser to run the website
 <br>
 <br>
 <b>Note:</b> this source code has no database but you can download db here 
-"<b>http://www.mediafire.com/file/7fd1rx6f8i7vqaj/bricflrb_login.sql/file</b>"
+<b>http://www.mediafire.com/file/7fd1rx6f8i7vqaj/bricflrb_login.sql/file</b>
 <h1>Credits</h1>
 
 👏 A big thanks to the following individuals and organizations for their contributions to the project:
